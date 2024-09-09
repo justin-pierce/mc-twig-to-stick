@@ -1,0 +1,12 @@
+{
+  "type": "recipe",
+  "crafter": "lumberjack_custom",
+  "inputs": [
+    {
+      "item": "twigs:twig"
+    }
+  ],
+  "intermediate": "minecraft:air",
+  "result": "minecraft:stick",
+  "tool": "axe"
+}
